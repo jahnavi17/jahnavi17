@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jahnavi Innamuri
+- 👀 I’m interested in data analytics
+- 💞️ I’m looking to collaborate on exciting data analysis projects 
+- 📫 How to reach me januinnamuri@gmail.com
